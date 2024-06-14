@@ -1,0 +1,16 @@
+BIODATA DIRI SISWA
+
+Nama Lengkap : Ahmad Faisal Rahman
+NIS : 001837
+Jenis Kelamin : Laki-laki
+Tempat dan Tanggal Lahir : Bandung, 10 Maret 2007
+Alamat : Jalan Cendana No. 7, Cimahi, Jawa Barat
+Agama : Kristen
+No. Telepon/Hp : 081234567890
+Nama Orang Tua :
+Ayah: Bambang Wijaya
+Ibu: Dewi Purnama
+Alamat Orang Tua : Jalan Cendana No. 7, Cimahi, Jawa Barat
+Pekerjaan Orang Tua :
+Ayah: Wiraswasta
+Ibu: Guru SD

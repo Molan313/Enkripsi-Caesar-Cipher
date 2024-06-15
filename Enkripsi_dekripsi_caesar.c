@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
 
 // Fungsi untuk membaca isi file dan menyimpannya dalam array konten
 void baca(const char *namaFile, char *konten) {
@@ -66,7 +65,7 @@ int main() {
         case 1: // Kasus pertama, enkripsi
             printf("Masukkan nama dokumen yang ingin anda enkripsi: "); // Dokumen harus berupa file .txt
             scanf("%s", namaFile); // File harus berada di dalam direktori yang sama dengan program ini
-            printf("Masukkan kunci: "); // Kunci untuk Caesar cipher, kunci ini bisa 
+            printf("Masukkan kunci: "); // Kunci untuk Caesar cipher, kunci ini bisa berupa string 
             scanf("%s", kunci);
             printf("Input nama file baru (tambahkan .txt): ");
             scanf("%s", fileEnkripsi);

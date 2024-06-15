@@ -74,6 +74,7 @@ int main() {
             key = 0;
             for (int i = 0; kunci[i] != '\0'; i++) {
                 key += kunci[i];
+                printf("%d ", key);
             }     
 
             key = key % 256;
@@ -98,6 +99,8 @@ int main() {
             for (int i = 0; kunci[i] != '\0'; i++) {
                 key += kunci[i];
             }
+
+            key = key % 256;
 
             baca(namaFile, teksFile); // Membaca isi file
 
